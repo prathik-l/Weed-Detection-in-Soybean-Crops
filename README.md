@@ -1,5 +1,5 @@
 ## Weed-Detection-in-Soybean-Crops
-###Introduction:
+### Introduction:
 
 The integration of deep learning methodologies in agriculture has gained significant attention in recent years due to its potential to revolutionize crop monitoring and management. As a crucial aspect of precision agriculture, crop classification plays a pivotal role in optimizing resource allocation, implementing targeted interventions, and enhancing overall agricultural productivity. This project aims to develop a deep learning model for the accurate classification of crops, specifically focusing on distinguishing between soil, soybean, grass, and broadleaf weeds.
 
